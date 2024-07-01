@@ -34,8 +34,37 @@ This project is an android mobile application developed using React Native. The 
 
 ## Cloning the Repository
 
-  ```sh
   git clone https://github.com/chenleeee/YesterdayOnceMore.git
   cd YesterdayOnceMore
 
-## Installing Dependencie
+## Installing Dependencies
+Install project dependencies using npm or Yarn:
+
+  npm install
+  or
+  yarn install
+
+## Setting Up Supabase
+1.Create an account at [Supabase](https://supabase.com/).
+
+2.Create a new project and note down the URL and anon key.
+
+3.Create a .env file in the root of your project and add the following
+
+  SUPABASE_URL=your_supabase_url
+  
+  SUPABASE_ANON_KEY=your_supabase_anon_key
+
+## Running the Application
+
+1.Start Android Studio and open the AVD Manager.
+
+2.Create a new Virtual Device if you don’t have one.
+
+3.Start the emulator.
+
+4. In the project directory, run:
+
+  ```sh
+  npx react-native run-android
+
