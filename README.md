@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an android mobile application developed using React Native. The app features journaling, to-do list, calendar integration, and a Pomodoro timer. It aims to help users manage their time and tasks efficiently.
+This project is an android mobile application developed using React Native. The app features journaling, to-do list, calendar integration, and a Pomodoro timer. 
 
 ## Tech Stack
 
@@ -33,7 +33,9 @@ This project is an android mobile application developed using React Native. The 
   npm install -g react-native-cli
 
 ## Cloning the Repository
-  ```sh
-git clone https://github.com/chenleeee/YesterdayOnceMore.git
-cd YesterdayOnceMore
 
+  ```sh
+  git clone https://github.com/chenleeee/YesterdayOnceMore.git
+  cd YesterdayOnceMore
+
+## Installing Dependencie
