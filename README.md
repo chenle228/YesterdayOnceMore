@@ -25,11 +25,9 @@ By blending sentimental value with practical productivity tools, "Yesterday Once
 - **UI Components**: React Native Elements
 
 ## Other Information
+View our project poster: https://drive.google.com/file/d/1KhSGonArWMuT05GS7nDF-Nvcwgr4CgWc/view?usp=drive_link
 Watch our promotional video: https://drive.google.com/file/d/1K3fFcjNBLpJ2r1rlrJnOHGM6xlUkInLY/view?usp=drive_link
 Read our documentation in detail: https://docs.google.com/document/d/16RYnLBhpMWv_IgDu0x7g1cqSkuaAdrmOxo4Cnkm0RRk/edit?usp=drive_link
-
-## Project Poster
-![App Screenshot](https://drive.google.com/file/d/1KhSGonArWMuT05GS7nDF-Nvcwgr4CgWc/view?usp=drive_link)
 
 ## Environment Setup
 
