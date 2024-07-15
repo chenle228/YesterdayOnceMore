@@ -2,9 +2,6 @@
 
 ## Overview
 
-
-Here's a revised version of your text with emojis to make it more lively and engaging:
-
 "Yesterday Once More" aims to digitize and enhance the unique diary-keeping method by addressing the above problems through comprehensive features. 📓✨
 
 Firstly, it fosters personal growth and introspection by juxtaposing past and present entries, allowing users to cherish memories and observe their development over time. 🕰️💭 Beyond nostalgia, the app integrates features like:
