@@ -2,7 +2,19 @@
 
 ## Overview
 
-This project is an android mobile application developed using React Native. The app features journaling, to-do list, calendar integration, and a Pomodoro timer. 
+
+Here's a revised version of your text with emojis to make it more lively and engaging:
+
+"Yesterday Once More" aims to digitize and enhance the unique diary-keeping method by addressing the above problems through comprehensive features. 📓✨
+
+Firstly, it fosters personal growth and introspection by juxtaposing past and present entries, allowing users to cherish memories and observe their development over time. 🕰️💭 Beyond nostalgia, the app integrates features like:
+
+- **Journaling**: Create and manage daily journal entries.📓
+- **To-do List**: Add, edit, and delete tasks.✅ 
+- **Calendar Integration**: View tasks and journal entries on a calendar.📅
+- **Pomodoro Timer**: Track and Manage focused work sessions. ⏲️
+
+By blending sentimental value with practical productivity tools, "Yesterday Once More" becomes a companion on the journey of self-discovery and meaningful reflection. 🌟🌱
 
 ## Tech Stack
 
@@ -12,12 +24,12 @@ This project is an android mobile application developed using React Native. The 
 - **Version Control**: Git and GitHub
 - **UI Components**: React Native Elements
 
-## Features
+## Other Information
+Watch our promotional video: https://drive.google.com/file/d/1K3fFcjNBLpJ2r1rlrJnOHGM6xlUkInLY/view?usp=drive_link
+Read our documentation in detail: https://docs.google.com/document/d/16RYnLBhpMWv_IgDu0x7g1cqSkuaAdrmOxo4Cnkm0RRk/edit?usp=drive_link
 
-- **Journaling**: Create and manage daily journal entries.
-- **To-do List**: Add, edit, and delete tasks.
-- **Calendar Integration**: View tasks and journal entries on a calendar.
-- **Pomodoro Timer**: Manage focused work sessions.
+## Project Poster
+![App Screenshot](https://drive.google.com/file/d/1KhSGonArWMuT05GS7nDF-Nvcwgr4CgWc/view?usp=drive_link)
 
 ## Environment Setup
 
